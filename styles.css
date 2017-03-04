@@ -1,0 +1,34 @@
+/* add your CSS here */
+
+#facts{
+    font-style: italic;
+}
+#title{
+    font-weight: bold;
+}
+.bold{
+    font-weight: bold;
+}
+.container{
+        border: 1px solid #bdbdbd;
+    width: 400px;
+    padding: 5px;
+}
+ul {
+    padding: 0px;
+    list-style-type: none;
+}
+span{
+    font-weight: bold;
+
+}
+#img{
+    padding-left: 40px;
+}
+.inside{
+    border: 1px solid #BDBDBD;
+    width: 365px;
+    padding-left: 15px;
+    margin: 5px;
+    margin-top: 15px;
+}
